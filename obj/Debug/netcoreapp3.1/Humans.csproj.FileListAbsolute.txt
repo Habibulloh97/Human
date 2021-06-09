@@ -1,0 +1,12 @@
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/bin/Debug/netcoreapp3.1/Humans.deps.json
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/bin/Debug/netcoreapp3.1/Humans.runtimeconfig.json
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/bin/Debug/netcoreapp3.1/Humans.runtimeconfig.dev.json
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/bin/Debug/netcoreapp3.1/Humans.dll
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/bin/Debug/netcoreapp3.1/Humans.pdb
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/obj/Debug/netcoreapp3.1/Humans.csprojAssemblyReference.cache
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/obj/Debug/netcoreapp3.1/Humans.AssemblyInfoInputs.cache
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/obj/Debug/netcoreapp3.1/Humans.AssemblyInfo.cs
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/obj/Debug/netcoreapp3.1/Humans.csproj.CoreCompileInputs.cache
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/obj/Debug/netcoreapp3.1/Humans.dll
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/obj/Debug/netcoreapp3.1/Humans.pdb
+/Users/phenomenal/CodingDojoAssignments/C#/Humans/obj/Debug/netcoreapp3.1/Humans.genruntimeconfig.cache
